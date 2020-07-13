@@ -1,7 +1,5 @@
 # [![dannermm header](https://raw.githubusercontent.com/Dannermm/Dannermm/master/darkimgforwebsite.jpg)](https://dannermm.com)
 
-<img align="center" src="https://raw.githubusercontent.com/Dannermm/Dannermm/master/darkimgforwebsite.jpg" height="200">
-
 <p align="center">
 <a href="https://dev.to/dannermm"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/dannermm_"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
