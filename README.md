@@ -1,4 +1,4 @@
-# [![dannermm header](https://raw.githubusercontent.com/Dannermm/Dannermm/master/cover.pn)](https://dannermm.com)
+# [![dannermm header](https://raw.githubusercontent.com/Dannermm/Dannermm/master/cover.png)](https://dannermm.com)
 
 <p align="center">
 <a href="https://dev.to/dannermm"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
