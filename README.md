@@ -1,4 +1,4 @@
-# [![dannermm header](https://raw.githubusercontent.com/Dannermm/Dannermm/master/cover.png)](https://dannermm.com)
+# [![dannermm header](https://raw.githubusercontent.com/Dannermm/Dannermm/master/img/cover.png)](https://dannermm.com)
 
 <p align="center">
 <a href="https://dev.to/dannermm"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
@@ -33,5 +33,6 @@ VsCode
 
 ### What I Want To Learn
 
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" width="60"> |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" width="60"> | <img src="http://www.software-architects.com/content/images/blog/2016/12/typescript-logo.png">
 |:---:|
+Vue JS
