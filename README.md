@@ -19,7 +19,7 @@ I am Daniel Medina, I am currently a student and aspiring web developer. I got a
 
 ### Some things I do :smile:
 
-Day to day I create things with **JavaScript**, some **Python**, and every now and then I use **PHP** and **MySQL**. I am interested in learning React, Vue, TypeScript, jQuery, and NodeJs.
+Day to day I create things with **JavaScript**, some **Python**, and every now and then I use **PHP** and **MySQL**. I am interested in learning React, Vue, TypeScript, jQuery, Django, and NodeJs.
 
 Feel free to check out the projects I have in my website! My favourite ones are the [admin panel](https://dannermm.com/prototypes/adminpanel) and the [blog prototype](https://dannermm.com/cards)
 
@@ -33,6 +33,6 @@ VsCode
 
 ### What I Want To Learn
 
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" width="60"> | <img src="https://raw.githubusercontent.com/Dannermm/Dannermm/master/img/typescript.png" width="60"> | <img src="https://raw.githubusercontent.com/Dannermm/Dannermm/master/img/django.png" width="60">
-|:---:|:--:|:---:|
-Vue JS | TypeScript | Django
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" width="60"> | <img src="https://raw.githubusercontent.com/Dannermm/Dannermm/master/img/typescript.png" width="60"> | <img src="https://raw.githubusercontent.com/Dannermm/Dannermm/master/img/django.png" width="60"> | <img src="https://raw.githubusercontent.com/Dannermm/Dannermm/master/img/jquery.png" width="60"> | <img src="https://raw.githubusercontent.com/Dannermm/Dannermm/master/img/react.png" width="60"> | <img src="https://raw.githubusercontent.com/Dannermm/Dannermm/master/img/nodejs.png" width="60">
+|:---:|:--:|:---:|:---:|:---:|:---:|
+Vue JS | TypeScript | Django | jQuery | React | NodeJS
