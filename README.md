@@ -16,6 +16,7 @@ I am Daniel Medina, I am currently a student and aspiring web developer. I got a
 <p>
     <a href="https://dannermm.com"><img src="https://bitrebels.com/wp-content/uploads/2018/06/programming-languages-learn-header-image.jpg" width="400" align="right"></a>
 </p>
+<br>
 
 ### Some things I do :smile:
 
