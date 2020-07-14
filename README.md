@@ -32,8 +32,8 @@ Feel free to check out the projects I have in my website! My favourite ones are 
 VsCode
 
 ### What I Know
-| <img src="https://raw.githubusercontent.com/Dannermm/Dannermm/master/img/sass.png " widht="60"> | <img src="https://raw.githubusercontent.com/Dannermm/Dannermm/master/img/css.png" widht="60"> | <img src="https://raw.githubusercontent.com/Dannermm/Dannermm/master/img/html.png" widht="60"> | <img src="https://raw.githubusercontent.com/Dannermm/Dannermm/master/img/js.png" widht="60"> | <img src="" width="60">
-|:---:|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/Dannermm/Dannermm/master/img/sass.png " widht="60"> | <img src="https://raw.githubusercontent.com/Dannermm/Dannermm/master/img/css.png" widht="60"> | <img src="https://raw.githubusercontent.com/Dannermm/Dannermm/master/img/html.png" widht="60"> | <img src="https://raw.githubusercontent.com/Dannermm/Dannermm/master/img/js.png" widht="60"> | <img src="https://raw.githubusercontent.com/Dannermm/Dannermm/master/img/bootstrap.png" width="60">
+|:---:|:---:|:---:|:---:|:---:|
 
 ### What I Want To Learn
 
