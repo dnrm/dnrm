@@ -30,3 +30,8 @@ Feel free to check out the projects I have in my website! My favourite ones are 
 | <img src="https://iseif.dev/wp-content/uploads/2019/06/vscode-logo.png" width="60"> |
 |:---:|
 VsCode
+
+### What I Want To Learn
+
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" width="60"> |
+|:---:|
