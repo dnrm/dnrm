@@ -32,9 +32,9 @@ Feel free to check out the projects I have in my website! My favourite ones are 
 VsCode
 
 ### What I Know
-| <img src="https://raw.githubusercontent.com/Dannermm/Dannermm/master/img/sass.png " width="60"> | <img src="https://raw.githubusercontent.com/Dannermm/Dannermm/master/img/css.png" width="60"> | <img src="https://raw.githubusercontent.com/Dannermm/Dannermm/master/img/html.png" width="60"> | <img src="https://raw.githubusercontent.com/Dannermm/Dannermm/master/img/js.png" width="60"> | <img src="https://raw.githubusercontent.com/Dannermm/Dannermm/master/img/bootstrap.png" width="60">
-|:---:|:---:|:---:|:---:|:---:|
-Sass | CSS | HTML | JavaScript | Bootstrap
+| <img src="https://raw.githubusercontent.com/Dannermm/Dannermm/master/img/sass.png " width="60"> | <img src="https://raw.githubusercontent.com/Dannermm/Dannermm/master/img/css.png" width="60"> | <img src="https://raw.githubusercontent.com/Dannermm/Dannermm/master/img/html.png" width="60"> | <img src="https://raw.githubusercontent.com/Dannermm/Dannermm/master/img/js.png" width="60"> | <img src="https://raw.githubusercontent.com/Dannermm/Dannermm/master/img/bootstrap.png" width="60"> | <img src="https://raw.githubusercontent.com/Dannermm/Dannermm/master/img/python.png" width="60">
+|:---:|:---:|:---:|:---:|:---:|:---:|
+Sass | CSS | HTML | JavaScript | Bootstrap | Python
 
 ### What I Want To Learn
 
