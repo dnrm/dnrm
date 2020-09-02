@@ -33,12 +33,12 @@ Feel free to check out the projects I have in my website! My favourite ones are 
 VsCode
 
 ### What I Know
-| <img src="https://raw.githubusercontent.com/Dannermm/Dannermm/master/img/sass.png " width="60"> | <img src="https://raw.githubusercontent.com/Dannermm/Dannermm/master/img/css.png" width="60"> | <img src="https://raw.githubusercontent.com/Dannermm/Dannermm/master/img/html.png" width="60"> | <img src="https://raw.githubusercontent.com/Dannermm/Dannermm/master/img/js.png" width="60"> | <img src="https://raw.githubusercontent.com/Dannermm/Dannermm/master/img/bootstrap.png" width="60"> | <img src="https://raw.githubusercontent.com/Dannermm/Dannermm/master/img/python.png" width="60"> | <img src="https://raw.githubusercontent.com/dnrm/dnrm/master/img/angular.svg" width="60"> | <img src="https://raw.githubusercontent.com/Dannermm/Dannermm/master/img/typescript.png" width="60">
-|:---:|:---:|:---:|:---:|:---:|:---:|:--:|:--:|
-Sass | CSS | HTML | JavaScript | Bootstrap | Python | Angular | Typescript
+| <img src="https://raw.githubusercontent.com/Dannermm/Dannermm/master/img/sass.png " width="60"> | <img src="https://raw.githubusercontent.com/Dannermm/Dannermm/master/img/css.png" width="60"> | <img src="https://raw.githubusercontent.com/Dannermm/Dannermm/master/img/html.png" width="60"> | <img src="https://raw.githubusercontent.com/Dannermm/Dannermm/master/img/js.png" width="60"> | <img src="https://raw.githubusercontent.com/Dannermm/Dannermm/master/img/bootstrap.png" width="60"> | <img src="https://raw.githubusercontent.com/dnrm/dnrm/master/img/angular.svg" width="60"> | <img src="https://raw.githubusercontent.com/Dannermm/Dannermm/master/img/typescript.png" width="60">
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+Sass | CSS | HTML | JavaScript | Bootstrap | Angular | Typescript
 
 ### What I Want To Learn
 
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" width="60"> | <img src="https://raw.githubusercontent.com/Dannermm/Dannermm/master/img/django.png" width="60"> | <img src="https://raw.githubusercontent.com/Dannermm/Dannermm/master/img/jquery.png" width="60"> | <img src="https://raw.githubusercontent.com/Dannermm/Dannermm/master/img/react.png" width="60"> | <img src="https://raw.githubusercontent.com/Dannermm/Dannermm/master/img/nodejs.png" width="60">
-|:---:|:--:|:---:|:---:|:---:|
-Vue JS | Django | jQuery | React | NodeJS
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" width="60"> | <img src="https://raw.githubusercontent.com/Dannermm/Dannermm/master/img/django.png" width="60"> | <img src="https://raw.githubusercontent.com/Dannermm/Dannermm/master/img/jquery.png" width="60"> | <img src="https://raw.githubusercontent.com/Dannermm/Dannermm/master/img/react.png" width="60"> | <img src="https://raw.githubusercontent.com/Dannermm/Dannermm/master/img/nodejs.png" width="60"> | <img src="https://raw.githubusercontent.com/Dannermm/Dannermm/master/img/python.png" width="60">
+|:---:|:--:|:---:|:---:|:---:|:---:|
+Vue JS | Django | jQuery | React | NodeJS | Python
