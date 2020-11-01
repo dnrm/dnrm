@@ -40,5 +40,5 @@ Sass | CSS | HTML | JavaScript | Bootstrap | Angular | Typescript | TailwindCSS 
 ### What I Want To Learn
 
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" width="60"> | <img src="https://raw.githubusercontent.com/Dannermm/Dannermm/master/img/django.png" width="60"> | <img src="https://raw.githubusercontent.com/Dannermm/Dannermm/master/img/react.png" width="60"> | <img src="https://raw.githubusercontent.com/Dannermm/Dannermm/master/img/python.png" width="60">
-|:---:|:--:|:---:|:---:|:---:|:---:|
+|:---:|:--:|:---:|:---:|
 Vue JS | Django | React | Python
