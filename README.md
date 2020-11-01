@@ -7,7 +7,7 @@
 <br>
 </p>
 
-Hey! :wave:
+# Hello! :wave:
 
 I am Daniel Medina, I am currently a student and aspiring web developer. I got a lot of experience in front-end languages such as HTML CSS and JavaScript. I have a passion for learning. For me programming is an endless journey of learning. I am interested in becoming a full stack web developer. Make sure to check out [my website!](https://dannermm.com) and my repos down there ⬇️⬇️.
 
