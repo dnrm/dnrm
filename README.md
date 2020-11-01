@@ -18,7 +18,7 @@ I am Daniel Medina, I am currently a student and aspiring web developer. I got a
 </p>
 <br>
 
-### Some things I do :smile:
+### Some things I do
 
 Day to day I create things with **JavaScript**, some **Python**, and every now and then I use **PHP** and **MySQL**. I am interested in learning React, Vue, TypeScript, jQuery, Django, and NodeJs.
 
