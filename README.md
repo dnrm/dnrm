@@ -2,22 +2,7 @@
 
 # Hello! :wave:
 
-I am Daniel Medina, I am currently a student and aspiring web developer. I got a lot of experience in front-end languages such as HTML CSS and JavaScript. I have a passion for learning. For me programming is an endless journey of learning. I am interested in becoming a full stack web developer. Make sure to check out [my website!](https://dannermm.com) and my repos down there ⬇️⬇️.
-
----
-
-<p>
-    <a href="https://dannermm.com"><img src="https://bitrebels.com/wp-content/uploads/2018/06/programming-languages-learn-header-image.jpg" width="400" align="right"></a>
-</p>
-<br>
-
-### Some things I do
-
-Day to day I create things with **JavaScript**, some **Python**, and every now and then I use **PHP** and **MySQL**. I am interested in learning React, Vue, TypeScript, jQuery, Django, and NodeJs.
-
-Feel free to check out the projects I have in my website! My favourite ones are the [admin panel](https://dannermm.com/prototypes/adminpanel) and the [blog prototype](https://blog.dannermm.com)
-
-<br>
+Hello I'm Daniel Medina, a web developer. I work primarily with javascript. Here on GitHub you can find most of my projects. I really enjoy software development, and I consider myself pretty good at front-end development. Thank you for stopping by!
 
 ### My Editor of Choice :fire:
 
@@ -36,3 +21,5 @@ Sass | CSS | HTML | JavaScript | Bootstrap | Angular | Typescript | TailwindCSS 
 |:---:|:--:|:---:|:---:|
 Vue JS | Django | React | Python
 
+=======
+![GitHub metrics](https://metrics.lecoq.io/dnrm)
