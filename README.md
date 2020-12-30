@@ -21,5 +21,5 @@ Sass | CSS | HTML | JavaScript | Bootstrap | Angular | Typescript | TailwindCSS 
 |:---:|:--:|:---:|:---:|
 Vue JS | Django | React | Python
 
-=======
+
 ![GitHub metrics](https://metrics.lecoq.io/dnrm)
