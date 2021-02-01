@@ -22,4 +22,17 @@ Sass | CSS | HTML | JavaScript | Bootstrap | Angular | Typescript | TailwindCSS 
 Vue JS | Django | React | Python
 
 
-![GitHub metrics](https://metrics.lecoq.io/dnrm?isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=America%2FMexico_City)
+
+## My Preferred Cloud Provider
+
+| <img src="https://bahraingamejam.com/wp-content/uploads/2019/11/aws-logo-icon-PNG-Transparent-Background.png" width="120"> |
+|:---:|
+Amazon Web Services
+
+
+
+## My GitHub Stats
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/dnrm?isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=America%2FMexico_City">
+</p>
