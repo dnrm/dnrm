@@ -23,3 +23,5 @@ My name is Daniel Medina. I'm a web developer. I have been in the world of web d
 - :headphones: &nbsp; Bose QC 35
 - :pencil2: &nbsp; Visual Studio Code
 - :keyboard: &nbsp; Keychron K2
+
+![dnrm's stats](https://github-readme-stats.vercel.app/api?username=dnrm&show_icons=true&theme=dark)
