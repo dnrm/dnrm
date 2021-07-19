@@ -1,8 +1,8 @@
 # I'm Daniel Medina :wave:
 
-[![My Website](https://raw.githubusercontent.com/dnrm/dnrm/master/img/Black%20Technology%20LinkedIn%20Banner%20(1).png)](https://danielmedina.dev)
+[![My Website](https://raw.githubusercontent.com/dnrm/dnrm/master/img/Black%20Technology%20LinkedIn%20Banner%20(1).png)](https://medina.dev)
 
-My name is Daniel Medina. I'm a web developer. I have been in the world of web development since I was 12. Feel free to check out my website [here](https://danielmedina.dev) or my secondary website [here](https://dannermm.com). 
+My name is Daniel Medina. I'm a web developer. I have been in the world of web development since I was 12. Feel free to check out my website [here](https://medina.dev). 
 
 <p>
 <a href="https://dev.to/dnrm"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.svg" alt="Daniel Medina's DEV Community Profile" height="40" width="40"></a>
