@@ -14,7 +14,7 @@ My name is Daniel Medina. I'm a web developer. I have been in the world of web d
 - :cloud: &nbsp; Amazon Web Services 
 - :gear: &nbsp; NodeJs
 - :fire: &nbsp; MongoDB
-- :building_construction: &nbsp; Angular
+- :building_construction: &nbsp; React
 - :triangular_ruler: &nbsp; Express
 
 ## My Setup
