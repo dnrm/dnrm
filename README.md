@@ -8,3 +8,6 @@ My name is Daniel Medina. I am a high school student at Tecnológico de Monterre
 I spend my free time listening and composing music, taking photos, sailing, and coding. I also love collecting vinyl records. I currently have a small collection of them, but plan to expand it indefinitely.
 
 Feel free to check out my website [here](https://medina.dev). 
+
+## My Github Stats
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=dnrm&show_icons=true&theme=gruvbox)
