@@ -1,6 +1,6 @@
 <img width="960" alt="Hi, I'm Daniel Medina" src="https://user-images.githubusercontent.com/49281837/183480799-f56a63ac-056b-4619-a8c3-2fe0789220bd.png">
 
-# Hi! :seedling:
+# Welcome to my profile! :seedling:
 
 My name is Daniel Medina. I am a high school student at Tecnológico de Monterrey. My areas of expertise include the **MERN** stack, a very strong understanding of Next.js as well as cloud providers like AWS and Vercel. I started my journey as a web developer in January of 2020. During the COVID-19 pandemic I had a lot of free time therefore I was able to really bump up my skills. I started experimenting with all kinds of technologies and projects. You can find all of my projects here in my Github profile.
 
