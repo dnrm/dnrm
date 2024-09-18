@@ -7,12 +7,9 @@ My name is Daniel Medina. I am a high school student at Tecnológico de Monterre
 
 I spend my free time listening and composing music, taking photos, sailing, and coding. I also love collecting vinyl records. I currently have a small collection of them, but have been getting more and more lately. Check out my collection on my website.
 
-Feel free to check out my website [here](https://medina.dev). 
+Feel free to check out my website [here](https://rosenthaler.studio/). 
 
 ## My projects ⭐️
 The projects I am most proud of are my personal portfolio website, the Coding Academy Monterrey website, Earth (A project about ecological problems), the Andromeda Coffee website, and the Joyería Verbena website. 
 
-You can find all of my projects at: [https://medina.dev/projects](https://medina.dev/projects)
-
-## My Github Stats 📈
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=dnrm&show_icons=true&theme=gruvbox)
+You can find all of my projects at: [https://rosenthaler.studio/projects](https://rosenthaler.studio/projects)
