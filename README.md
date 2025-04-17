@@ -1,15 +1,8 @@
-<img width="960" alt="Hi, I'm Daniel Medina" src="https://user-images.githubusercontent.com/49281837/183480799-f56a63ac-056b-4619-a8c3-2fe0789220bd.png">
+# About Me 🚀
 
-# Welcome to my profile! :seedling:
+Hey there! I'm Daniel, a passionate full-stack developer and high school student at Tecnológico de Monterrey. I specialize in the MERN stack (MongoDB, Express, React, Node.js) with extensive experience in Next.js, and cloud providers like AWS and Vercel.
 
-My name is Daniel Medina. I am a high school student at Tecnológico de Monterrey. My areas of expertise include the **MERN** stack, a very strong understanding of Next.js as well as cloud providers like AWS and Vercel. I started my journey as a web developer in January of 2020. During the COVID-19 pandemic I had a lot of free time therefore I was able to really bump up my skills. I started experimenting with all kinds of technologies and projects. You can find all of my projects here in my Github profile.
+My coding journey began in January 2020, and during the COVID-19 pandemic, I took advantage of the extra time to rapidly accelerate my development skills. I love exploring new technologies and building projects that solve real-world problems.
 
-
-I spend my free time listening and composing music, taking photos, sailing, and coding. I also love collecting vinyl records. I currently have a small collection of them, but have been getting more and more lately. Check out my collection on my website.
-
-Feel free to check out my website [here](https://rosenthaler.studio/). 
-
-## My projects ⭐️
-The projects I am most proud of are my personal portfolio website, the Coding Academy Monterrey website, Earth (A project about ecological problems), the Andromeda Coffee website, and the Joyería Verbena website. 
-
-You can find all of my projects at: [https://rosenthaler.studio/projects](https://rosenthaler.studio/projects)
+### Let's Connect! 🤝
+I'm always interested in collaborating on exciting projects or just chatting about tech. Feel free to reach out through my website or connect with me on social media!
